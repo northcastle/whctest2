@@ -11,5 +11,9 @@ public class RmController2 {
 	public void readyToRm(){
 		System.out.println("I'm ready to be removed!");
 	}
+	
+	public void readyToRm2333(){
+		System.out.println("I'm ready to be removed!");
+	}
 
 }

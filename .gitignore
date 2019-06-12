@@ -10,6 +10,8 @@ HELP.md
 .settings
 .springBeans
 .sts4-cache
+#不把log文件夹下面的东西添加到版本库中
+log/
 
 ### IntelliJ IDEA ###
 .idea

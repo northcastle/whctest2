@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServletRequest;
  * @author 10156234c
  *
  */
-public class LoginController {
+public class LoginController2333 {
 	
 	public void login(HttpServletRequest request){
 		System.out.println("Test Git");

@@ -15,5 +15,8 @@ public class RmController1 {
 	public void testbranch01(){
 		System.out.println("I am on the new branch named of testbranch01...");
 	}
+	public void testbranch02(){
+		System.out.println("I am on the new branch named of testbranch02...");
+	}
 
 }

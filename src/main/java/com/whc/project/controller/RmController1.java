@@ -11,5 +11,9 @@ public class RmController1 {
 	public void readyToRm(){
 		System.out.println("I'm ready to be removed!");
 	}
+	
+	public void testbranch01(){
+		System.out.println("I am on the new branch named of testbranch01...");
+	}
 
 }
